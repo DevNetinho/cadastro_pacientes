@@ -32,7 +32,7 @@ Navegue para o diretório do projeto e execute o comando para instalar todas as 
 ```
 
 Crie o arquivo .env com base no .env_example e configure o mesmo de acordo com suas configurações locais,
-saso seu sistema operacional seja o Windows, substitua o " cp " para " copy ":
+caso seu sistema operacional seja o Windows, substitua o " cp " para " copy ":
 ```bash
     cp .env_example .env
 ```
