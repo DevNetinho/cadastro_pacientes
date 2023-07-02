@@ -5,13 +5,16 @@ Tem como funcionalidades o cadastro de pacientes, cadastro de consultas para os 
 
 
 ## Capturas das telas principais 🖥️
-
+### Tela de Login
 ![Tela de Login](public/images/tela_login.png)
 
+### Listagem de pacientes
 ![Listagem de pacientes](public/images/lista_pacientes.png)
 
+### Lista de consultas marcadas
 ![Lista de consultas marcadas](public/images/consultas_marcadas.png)
 
+### Agendamento de consulta
 ![Agendamento de consulta](public/images/agendar_consulta.png)
 
 
