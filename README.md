@@ -21,12 +21,37 @@ Tem como funcionalidades o cadastro de pacientes, cadastro de consultas para os 
 
 ## Instalação
 
-Instale my-project com npm
-
+Baixe o projeto com:
 ```bash
-  npm install my-project
-  cd my-project
+    git clone https://github.com/DevNetinho/cadastro_pacientes
 ```
+
+Navegue para o diretório do projeto e execute o comando para instalar todas as dependências:
+```bash
+    composer install
+```
+
+Crie o arquivo .env com base no .env_example e configure o mesmo de acordo com suas configurações locais,
+saso seu sistema operacional seja o Windows, substitua o " cp " para " copy ":
+```bash
+    cp .env_example .env
+```
+
+Gerar a chave do aplicativo:
+```bash
+    php artisan key:generate
+```
+
+Execute as migrations:
+```bash
+    php artisan migrate
+```
+
+Por fim, sirva a aplicação ;D
+```bash
+    php artisan serve
+```
+
     
 ## Aprendizados
 
