@@ -19,7 +19,7 @@ Tem como funcionalidades o cadastro de pacientes, cadastro de consultas para os 
 
 
 
-## Instalação
+## Instalação 🛠️
 
 Baixe o projeto com:
 ```bash
@@ -53,6 +53,6 @@ Por fim, sirva a aplicação ;D
 ```
 
     
-## Aprendizados
+## Aprendizados 📚
 
 Os principais aprendizados que eu tive com este projeto foram: O relacionamento de 1 para N(onde 1 paciente pertence a N consultas) no Eloquent ORM, Implementação e uso do pacote Laravel UI com Bootstrap e Autenticação, uso do pacote DomPDF para exportação de pdf da consulta do paciente e também houve muita prática do CRUD em todos os formulários criados.
