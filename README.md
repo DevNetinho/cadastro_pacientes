@@ -51,8 +51,8 @@ Por fim, sirva a aplicação ;D
 ```bash
     php artisan serve
 ```
-
     
+
 ## Aprendizados 📚
 
-Os principais aprendizados que eu tive com este projeto foram: O relacionamento de 1 para N(onde 1 paciente pertence a N consultas) no Eloquent ORM, Implementação e uso do pacote Laravel UI com Bootstrap e Autenticação, uso do pacote [DomPdf](https://github.com/dompdf/dompdf) para exportação de pdf da consulta do paciente e também houve muita prática do CRUD em todos os formulários criados.
+Os principais aprendizados que eu tive com este projeto foram: O relacionamento de 1 para N(onde 1 paciente pertence a N consultas) no Eloquent ORM, Implementação e uso do pacote [Laravel UI](https://github.com/laravel/ui) com Bootstrap e Autenticação, uso do pacote [DomPdf](https://github.com/dompdf/dompdf) para exportação de pdf da consulta do paciente e também houve muita prática do CRUD em todos os formulários criados.
